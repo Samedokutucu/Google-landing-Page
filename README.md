@@ -1,6 +1,7 @@
-![gif](/img/Google.gif)
+![Google](https://user-images.githubusercontent.com/118971876/212571219-46fa5d91-b5fd-4f99-83bc-2e0313205751.gif)
 
 # Project aims to create google landing page.
+
 
 # What I Used
 
